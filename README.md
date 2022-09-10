@@ -1,3 +1,5 @@
 # popsicle
 
-Cheating is not fair mkay
+Path of Exile flask macro.
+
+Cheating is not fair mkay.
